@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SmartGreenhouse.iml" filepath="$PROJECT_DIR$/SmartGreenhouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SmartGreenhouse.iml" filepath="$PROJECT_DIR$/.idea/SmartGreenhouse.iml" />
+      <module fileurl="file://C:\Users\sk_sk\StudioProjects\SmartGreenhouse\SmartGreenhouse.iml" filepath="C:\Users\sk_sk\StudioProjects\SmartGreenhouse\SmartGreenhouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/TheCheeseLibrary/TheCheeseLibrary.iml" filepath="$PROJECT_DIR$/TheCheeseLibrary/TheCheeseLibrary.iml" />
+      <module fileurl="file://C:\Users\sk_sk\StudioProjects\SmartGreenhouse\TheCheeseLibrary\TheCheeseLibrary.iml" filepath="C:\Users\sk_sk\StudioProjects\SmartGreenhouse\TheCheeseLibrary\TheCheeseLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sk_sk\StudioProjects\SmartGreenhouse\app\app.iml" filepath="C:\Users\sk_sk\StudioProjects\SmartGreenhouse\app\app.iml" />
     </modules>
   </component>
 </project>
